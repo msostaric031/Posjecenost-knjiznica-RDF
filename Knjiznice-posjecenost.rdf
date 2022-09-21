@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="https://oziz.ffos.hr/knjiznice-posjecenost#"
+<!--
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"  
+xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" 
+xmlns:dc="http://purl.org/dc/terms/" 
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+-->   
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> 
+<posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#1">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	225</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-31T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#2">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	225</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-01T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#3">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-02T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#4">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	231</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-03T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#5">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	231</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-04T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#6">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	231</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-05T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#7">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	231</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-06T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#8">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-07T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#9">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-08T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#10">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-09T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#11">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-10T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#12">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-11T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#13">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-12T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#14">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-13T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#15">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	216</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-14T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#16">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	216</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-15T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#17">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	216</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-16T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#18">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	236</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-17T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#19">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	245</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-18T22:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#20">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	245</posjecenost>
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-19T22:00:00Z</datum>
+	
+</posjecenost_knjiznice>
+</rdf:RDF>
